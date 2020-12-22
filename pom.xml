@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.my.rest.webservices</groupId>
-	<artifactId>todo-rest-api-mysql</artifactId>
+	<artifactId>todo-rest-api-h2-cicd-pipeline</artifactId>
 	<version>1.0.0.RELEASE</version>
 	<packaging>war</packaging>
 
