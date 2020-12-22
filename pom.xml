@@ -9,7 +9,7 @@
 	<version>1.0.0.RELEASE</version>
 	<packaging>war</packaging>
 
-	<name>todo-rest-api-mysql</name>
+	<name>todo-rest-api-h2-cicd-pipeline</name>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
